@@ -219,4 +219,4 @@ PRONOTE is a full free version that includes all features and regular updates. T
 Explore the world of education with PRONOTE today! Download now and join the community of empowered educators and students.
 
 ---
-**Last updated:** 2026-09-16 13:15:01 UTC
+**Last updated:** 2026-09-16 18:01:00 UTC
